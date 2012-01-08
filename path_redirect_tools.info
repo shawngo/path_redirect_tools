@@ -1,0 +1,4 @@
+name = "Path redirect tools"
+description = "Import path redirect redirects and other novelty items."
+core = 6.x
+package = Custom
